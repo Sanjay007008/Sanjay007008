@@ -22,7 +22,7 @@ B. Tech IT student at PSG College of Technology
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay007008&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ssanjay2004?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/Ssanjay2004)
 
