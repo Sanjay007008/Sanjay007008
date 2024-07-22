@@ -24,6 +24,6 @@ B. Tech IT student at PSG College of Technology
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ssanjay2004?theme=dark&font=Marcellus&ext=contest)(https://leetcode.com/Ssanjay2004)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ssanjay2004?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/Ssanjay2004)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay007008&bg_color=000000&color=ffffff&line=28c83a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay007008&bg_color=000000&color=ffffff&line=28c83a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
