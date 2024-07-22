@@ -2,7 +2,7 @@
 
 B. Tech IT student at PSG College of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Resume](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [Resume]([https://hareesh.web.app/](https://drive.google.com/drive/u/0/folders/1PEbVmVZf3ad8xBRNo97KVLkDBWjaBSXh))                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Placements 
