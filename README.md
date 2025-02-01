@@ -2,7 +2,7 @@
 
 B. Tech IT student at PSG College of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Resume](https://drive.google.com/file/d/1BjabhcI_RcNtjjXiDQr-CVMTQ3vJvg0O/view)
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/13eo4wJ6_fYz3gsEC_0t8Obgv4fs7VZgw/view)
                                      
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development
